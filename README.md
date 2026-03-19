@@ -1,26 +1,24 @@
-Hi, I'm Abhijeet Gupta 👋  
-Backend-focused Software Engineer (Java, Spring Boot)
+# Hi, I'm Abhijeet Gupta 👋
 
-I build scalable REST APIs and full-stack applications with a strong focus on clean architecture and performance.
+Full-Stack Developer · Java + Node.js + React · Mumbai, India
 
-🔹 Tech Stack: Java, Spring Boot, REST APIs, JPA, MySQL, React Native  
-🔹 2024 Graduate | Actively seeking Backend / Full Stack roles  
-🔹 Open to internships and entry-level opportunities
-
----
+I build and ship production-ready applications — 
+from REST APIs to AI-powered full-stack apps.
 
 ## 🚀 Featured Projects
-- Algebraic Equation API — Spring Boot REST service  
-- JSON GroupBy API — Data processing backend  
-- React Native Todo App — Mobile app with auth  
 
-## 🧠 Currently Learning
-- Microservices  
-- System Design basics  
-- Docker  
+- 🌿 **[MindLog AI](https://github.com/abhijeetgupta1132/mindlog-ai)** — 
+  AI journal with real-time LLM streaming, SSE, Docker, deployed on Vercel + Render
+- ⚙️ **Algebraic Equation API** — Spring Boot REST service
+- 📊 **JSON GroupBy API** — Data processing backend
 
-## 🎯 Goal
-To contribute to high-impact backend systems and grow as a strong Java backend engineer.
+## 🛠️ Tech Stack
 
-📫 Reach me: abhijeetgupta112@gmail.com
-🔗 GitHub Projects below ↓
+Java · Spring Boot · Node.js · Express · React · 
+REST APIs · MySQL · SQLite · Docker · Git · Groq AI
+
+## 📫 Reach me
+
+📧 abhijeetgupta1134@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-gupta-807876381)  
+🌐 [MindLog AI Live Demo](https://mindlog-ai.vercel.app)
